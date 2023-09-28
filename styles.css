@@ -145,7 +145,7 @@ table {
 }
 
 img {
-    width: 100%;
+    width: 150%;
     vertical-align: middle
 }
 
@@ -4650,9 +4650,6 @@ header .header-logo-area {
     padding: 40px 0
 }
 
-header .header-logo-area .logo {
-    width: 164px
-}
 
 header .header-logo-area form {
     display: -webkit-box;
@@ -12206,4 +12203,9 @@ body {
 
 .must-white {
     color: var(--must-white)
+}
+
+.second-read-logo {
+    width: 35px;
+    height: 35px;
 }
